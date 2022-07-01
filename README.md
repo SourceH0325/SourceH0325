@@ -1,6 +1,8 @@
 <div align="center">
 
-  ![SourceH's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourceh0325&show_icons=true&theme=algolia)
+  ![SourceH's GitHub stats](https://github-readme-stats.vercel.app/api?username=SourceH0325&show_icons=true&theme=algolia)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SourceH0325&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
   <h3>I'm learning</h3>
 
