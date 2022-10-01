@@ -5,7 +5,6 @@ I'm a student developer and I mainly work on web development!
 ## Language
 
 - Javascript
-- Typescript
 - C++
 - C
 
