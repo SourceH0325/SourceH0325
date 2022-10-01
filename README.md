@@ -11,7 +11,7 @@ I'm a student developer and I mainly work on web development!
 ## Project
 
 - [SEEDLIST](https://seedlist.kr)
-- [P_MSS](https://seedlist.kr)
+- [P_MSS](https://p-mss.netlify.app)
 
 ## Statistics
 
