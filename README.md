@@ -1,4 +1,4 @@
-## Hi There!
+## Hi There! 👋
 
 **I'm a student developer and I mainly work on web development!**
 
