@@ -1,17 +1,18 @@
 ## Hi There!
 
-I'm a student developer and I mainly work on web development!
+**I'm a student developer and I mainly work on web development!**
 
 ## Language
 
-- Javascript
-- C++
-- C
+- <img src="https://img.shields.io/badge/JavaScript-212529?style=for-the-badge&logo=JavaScript&logoColor=white">
+- <img src="https://img.shields.io/badge/TypeScript-212529?style=for-the-badge&logo=TypeScript&logoColor=white">
+- <img src="https://img.shields.io/badge/Dart-212529?style=for-the-badge&logo=Dart&logoColor=white">
+- <img src="https://img.shields.io/badge/C++-212529?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
 ## Project
 
-- [SEEDLIST](https://seedlist.kr)
-- [P_MSS](https://p-mss.netlify.app)
+- <a href="https://seedlist.kr"><img src="https://img.shields.io/badge/SEEDLIST-212529?style=for-the-badge&logo=html5&logoColor=white"></a>
+- <a href="https://p-mss.netlify.app"><img src="https://img.shields.io/badge/P%2EMSS-212529?style=for-the-badge&logo=React&logoColor=white"></a>
 
 ## Statistics
 
