@@ -12,5 +12,6 @@
 
 - <a href="https://seedlist.kr"><img src="https://img.shields.io/badge/SEEDLIST-212529?style=for-the-badge&logo=html5&logoColor=white"></a>
 - <a href="https://p-mss.netlify.app"><img src="https://img.shields.io/badge/P%2EMSS-212529?style=for-the-badge&logo=React&logoColor=white"></a>
+- <a href="https://github.com/SourceH0325/P-SP"><img src="https://img.shields.io/badge/STELLA PLANET-212529?style=for-the-badge&logo=svelte&logoColor=white"></a>
 
 `I make what I want.`
