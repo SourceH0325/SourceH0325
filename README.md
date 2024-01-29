@@ -5,7 +5,6 @@
 # Language
 
 - <img src="https://img.shields.io/badge/JavaScript-212529?style=for-the-badge&logo=JavaScript&logoColor=white">
-- <img src="https://img.shields.io/badge/TypeScript-212529?style=for-the-badge&logo=TypeScript&logoColor=white">
 - <img src="https://img.shields.io/badge/C++-212529?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
 # Main Project
